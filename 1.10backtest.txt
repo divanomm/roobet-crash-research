@@ -1,7 +1,7 @@
 Data Results:
 
 1 = Crash Value <= 1.10
-0 = Crash Value > 1.10
+0 = Crash Value > 102
 
 Max Consecutive Crashes under 1.10 in a row: 7
 
